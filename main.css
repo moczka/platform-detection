@@ -1,0 +1,17 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.preload{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+#platformHolder{
+    width: 302px;
+    margin: auto;
+    padding: 40px;
+    display: none;
+}
